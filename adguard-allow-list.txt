@@ -1,3 +1,6 @@
+# 03.06.2023; Daniel; Browser-update.org Website
+@@||browser-update.org^$important
+
 # 27.08.2023; Daniel; On Running-Schuhe Umfrage
 @@||on-running.com^$important
 @@||sailthru.com^$important
