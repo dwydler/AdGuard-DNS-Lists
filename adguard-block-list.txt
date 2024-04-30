@@ -3,3 +3,6 @@
 
 # 02.07.2023; Daniel; Block TLD mov
 ||*.mov^
+
+# 19.01.2024; Daniel; Block TLD box
+||*.box^
