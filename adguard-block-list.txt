@@ -1,2 +1,5 @@
 # 02.07.2023; Daniel; Block TLD zip
 ||*.zip^
+
+# 02.07.2023; Daniel; Block TLD mov
+||*.mov^
