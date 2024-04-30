@@ -1,1 +1,2 @@
-
+# 02.07.2023; Daniel; Block TLD zip
+||*.zip^
