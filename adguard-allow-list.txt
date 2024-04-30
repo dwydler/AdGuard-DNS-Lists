@@ -1,3 +1,7 @@
+# 27.08.2023; Daniel; On Running-Schuhe Umfrage
+@@||on-running.com^$important
+@@||sailthru.com^$important
+
 # 27.08.2023; Daniel; ran App for Apple
 @@||assets-secure.applicaster.com^$important
 
