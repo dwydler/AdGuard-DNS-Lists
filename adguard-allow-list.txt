@@ -1,2 +1,5 @@
 # 12.12.2023; Daniel; Lions Club Leutkirch Adventskalender
 @@||online-adventskalender.de^$important
+
+# 02.01.2024; Daniel; Docker E-Mails
+email.notify.docker.com
