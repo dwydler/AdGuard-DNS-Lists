@@ -20,6 +20,9 @@
 @@||imrworldwide.com^$important
 @@||youboranqs01.com^$important
 
+# 25.11.2023; Manuel; ipv64.net | Free DynDNS2 & Healthcheck Service
+@@||ipv64.net^$important
+
 # 12.12.2023; Daniel; Lions Club Leutkirch Adventskalender
 @@||online-adventskalender.de^$important
 
