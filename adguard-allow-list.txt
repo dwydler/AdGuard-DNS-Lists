@@ -1,3 +1,6 @@
+# 27.08.2023; Daniel; ran App for Apple
+@@||assets-secure.applicaster.com^$important
+
 # 09.09.2023; Daniel; Microsoft E-Mail Newsletter
 @@||t.infoemails.microsoft.com^$important
 @@||mscom-mkt-prod3-lb.campaign.adobe.com^$important
