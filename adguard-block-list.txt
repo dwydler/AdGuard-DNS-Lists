@@ -1,3 +1,7 @@
+# 20.05.2023; Daniel; Cyberangriff auf United Hoster
+# Block Access to Exchange Server
+127.0.0.1 hex.hostedcloud.me
+
 # 02.07.2023; Daniel; Block TLD zip
 ||*.zip^
 
