@@ -1,1 +1,3 @@
-
+# 09.02.2023; Daniel; Zugriff auf Yandex Suchmaschine
+@@||mc.yandex.ru^$important
+@@||mc.yandex.com^$important
