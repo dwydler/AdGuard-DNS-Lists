@@ -39,3 +39,6 @@ email.notify.docker.com
 
 # 30.04.2024; 20:01 Uhr; Petra; ARD Buffet App on Google Android
 @@||ard-buffet-app.swr.de^$important
+
+# 05.05.2024; 15:55 Uhr; Daniel; polyfill.io for https://dwydler.github.io/active-forks/
+@@||polyfill.io^$important
