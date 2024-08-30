@@ -42,3 +42,7 @@ email.notify.docker.com
 
 # 05.05.2024; 15:55 Uhr; Daniel; polyfill.io for https://dwydler.github.io/active-forks/
 @@||polyfill.io^$important
+
+# 30.08.2024; 22:45 Uhr; Daneil; Kulturschmiede Kurhaus, Torfstecher Reservierung
+@@||email.mg.zenchefrestaurants.com^$important
+@@||mailgun.org^$important
