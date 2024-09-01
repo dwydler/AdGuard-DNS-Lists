@@ -46,3 +46,6 @@ email.notify.docker.com
 # 30.08.2024; 22:45 Uhr; Daneil; Kulturschmiede Kurhaus, Torfstecher Reservierung
 @@||email.mg.zenchefrestaurants.com^$important
 @@||mailgun.org^$important
+
+# 01.09.2024; 11:31 Uhr; Daniel; Liebherr Mitarbeiter Angebote, Lenovo
+@@||lenovo.7eer.net^$important
