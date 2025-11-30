@@ -52,3 +52,6 @@ email.notify.docker.com
 
 # 30.01.2025; 14:"6 Uhr; Daniel; Link
 @@||filecrypt.co^$important
+
+# 30.11.2025; 20:20 Uhr; Daniel; Link
+@@||spotify.com^$important
