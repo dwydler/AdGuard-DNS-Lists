@@ -50,7 +50,7 @@ email.notify.docker.com
 # 01.09.2024; 11:31 Uhr; Daniel; Liebherr Mitarbeiter Angebote, Lenovo
 @@||lenovo.7eer.net^$important
 
-# 30.01.2025; 14:"6 Uhr; Daniel; Link
+# 30.01.2025; 14:26 Uhr; Daniel; Link
 @@||filecrypt.co^$important
 
 # 30.11.2025; 20:20 Uhr; Daniel; Link
